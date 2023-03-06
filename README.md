@@ -30,6 +30,4 @@ This is an amazing tool for anyone who is looking to create UI designs on a budg
 
 In addition, SVG files are highly accurate and can be used for digital products as well as print products. So you can be sure that your UI designs will be beautiful, effective, and professional. 
 
-So why wait? Transform your ideas into designs today with an AI-powered Text-To-UI Design System! 
-
-#texttoui #uidesign #aidesign #svgfiles #designsystem #uiprototype #digitalproducts #printproducts
+So why wait? Transform your ideas into designs today with an AI-powered Text-To-UI Design System!
